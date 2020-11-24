@@ -1,4 +1,10 @@
-# 🌿 Simple theme for oh-my-zsh based on my love for plants and apples 🌿
+
+# ------------------------------------------------------------------------
+# 🌿 Minimalist theme for zsh based on my love for plants and apples 🌿
+#
+# Matthias Thym - totoroot - git@thym.at
+# https://matthias.thym.at/
+# ------------------------------------------------------------------------
 
 PROMPT='%(?:🌿:🍃) '
 RPROMPT='$(git_prompt_info) %~ %{%}[%*]'
